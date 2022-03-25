@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "890757267278",
+    "project_id": "starter-ca510",
+    "storage_bucket": "starter-ca510.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890757267278:android:a6ddb1e0d86bcaac44e81f",
+        "android_client_info": {
+          "package_name": "com.example.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890757267278-js7rd4mnledgsc04ceit93te4ocu05h7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYWIW3KtwGUZU0_ahY0tebTxzwGGGy2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890757267278-js7rd4mnledgsc04ceit93te4ocu05h7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
